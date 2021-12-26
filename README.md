@@ -24,29 +24,36 @@ The data used in this analysis was retrieved from Kaggle dataset of [YouTube tre
 ### Distribution of Video Categories and Channels in US
 Among 15 categories, the top 5 categories based on the number of videos are **Gaming, Entertainment, Music, Sports and People & Blogs.** Together top 5 categories cover 76.71% of all the trending videos.
 
-![a](/Graphs/US 2021 Distribution of Trending Video Categories.png)
+![](Graphs/data1.png)
 
 According to the most popular channels, Americans are more interested in sports, computer games, and talk shows. We found that the number of channels in these categories are very different. There are 800 channels for Gaming, 769 for Entertainment and 732 for Music, but only 294 channels in Sports. The channels in Entertainment or Music are much more than those in Sports. **This means that if someone is interested in Sports, he/she will only have a few choices of channels to watch the videos, while trending videos of Gaming, Entertainment or Music are widely distributed in many channels,** so for each single channel, it may not contain as many trending videos as channels in category of Sports.
 
-![](/Graphs/US 2021 Channel Counts in Top 5 Categories.png)
-
+![](Graphs/data2.png)
 
 ### Distribution of Video Categories and Channels in India
 Trending channels in India look much more enjoyable than those in the US. According to the dataset, the most popular channels in India are TV shows, comedy or story related. 
-[image]
+
+![](Graphs/data3.png)
 
 Unlike the channel features in US, the rank of number of trending channels in these categories exactly matches the rank of categories themselves. This means there is no disproportionate relationship between categories and channels within them.
-[image]
+
+![](Graphs/data4.png)
 
 ### US top 30 trending videos by view counts
 Below is the table of US top 30 trending videos by view counts. The response rate is calculated as the sum of likes, dislikes and comment count divided by view count, a metric reflecting to what extent audience interact with the video. The yellow highlighted videos are short videos while the pink ones are Korean music videos.
-[image]
+
+![](Graphs/data5.png)
+
 Among the top 30 most viewed videos, music accounts for nearly 50% of the total videos. Taking a closer look at the music videos in detail, those on the top of most viewed lists are videos of official videos of songs for new albums by popular singers such as Adele, Justin Bibber and some Korean singers and bands like BTS and Lisa. Interestingly, those top most view music videos from Korean bands enjoy some characteristics: firstly, they typically last for 8-10 trending days; secondly, the response rate for those videos are on average higher than other trending videos, with an average number of around 10%. Based on the numbers, it is safe to assume that **one reason why those Korean bands’ music videos are on the trending list is that fans actively help boost popularity for their idols’ new songs.**
 
 ### Frequent tags in trending videos between US and India
 The word clouds below show us the most common 500 words (excluding None) in the US (background color in blue) and India (background color in yellow). It is obvious that words like funny, comedy and Minecraft gaming were more typical key words of the trending videos in the US. While comedy, Hindi shows and big boss are more common than other words in trending videos in India. In short, comedy videos are most popular across US and India. However, in 2021, gaming such as Minecraft related videos have been a trend in the US, a difference from that in India
-[image]
-[image]
+
+**India most common 500 tags in trending videos**
+![India most common 500 tags in trending videos](Graphs/India_tags.png)
+
+**US most common 500 tags in trending videos**
+![US most common 500 tags in trending videos](Graphs/US_tages.png)
 
 ## Conclusion
 
