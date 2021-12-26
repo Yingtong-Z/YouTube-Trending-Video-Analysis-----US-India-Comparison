@@ -1,4 +1,4 @@
-# YouTube-Trending-Video-Analysis---US-India-Comparison
+# YouTube Trending Video Analysis --- US-India Comparison
 ## Introduction
 As a globally popular video platform, YouTube takes up most of the time in our daily life, no matter where we live in, what language we speak and what culture background we have. However, people from different countries do have different inclinations to choose a video. In this report, we are going to discuss the differences of video preferences in the US and India
 ## Objective
