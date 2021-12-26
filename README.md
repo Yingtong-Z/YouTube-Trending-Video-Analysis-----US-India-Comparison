@@ -27,8 +27,7 @@ Among 15 categories, the top 5 categories based on the number of videos are **Ga
 ![](Graphs/data1.png)
 
 According to the most popular channels, Americans are more interested in sports, computer games, and talk shows. We found that the number of channels in these categories are very different. There are 800 channels for Gaming, 769 for Entertainment and 732 for Music, but only 294 channels in Sports. The channels in Entertainment or Music are much more than those in Sports. **This means that if someone is interested in Sports, he/she will only have a few choices of channels to watch the videos, while trending videos of Gaming, Entertainment or Music are widely distributed in many channels,** so for each single channel, it may not contain as many trending videos as channels in category of Sports.
-
-![](Graphs/data2.png)
+![](Graphs/data2p.png)
 
 ### Distribution of Video Categories and Channels in India
 Trending channels in India look much more enjoyable than those in the US. According to the dataset, the most popular channels in India are TV shows, comedy or story related. 
