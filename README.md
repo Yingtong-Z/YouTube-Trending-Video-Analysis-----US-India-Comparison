@@ -1,6 +1,6 @@
 # YouTube Trending Video Analysis --- US-India Comparison
 
-This is a mini version of the analysis, please refer the full analysis in the file if interested :point_right:[full-report](https://github.com/Yingtong-Z/YouTube-Trending-Video-Analysis-----US-India-Comparison/blob/8ec8707c171cf576f050d6103fa85d0e665e4b3c/Full-report.pdf)
+This is a mini version of the analysis, please refer to the full analysis in the file if interested :point_right:[full-report](https://github.com/Yingtong-Z/YouTube-Trending-Video-Analysis-----US-India-Comparison/blob/8ec8707c171cf576f050d6103fa85d0e665e4b3c/Full-report.pdf)
 
 ## Introduction
 As a globally popular video platform, YouTube takes up most of the time in our daily life, no matter where we live in, what language we speak and what culture background we have. However, people from different countries do have different inclinations to choose a video. In this report, we are going to discuss the differences of video preferences in the US and India
