@@ -23,7 +23,8 @@ The data used in this analysis was retrieved from Kaggle dataset of [YouTube tre
 ## Highlighted Analysis
 ### Distribution of Video Categories and Channels in US
 Among 15 categories, the top 5 categories based on the number of videos are **Gaming, Entertainment, Music, Sports and People & Blogs.** Together top 5 categories cover 76.71% of all the trending videos.
-[image]
+
+![a](/Graphs/US 2021 Distribution of Trending Video Categories.png)
 
 According to the most popular channels, Americans are more interested in sports, computer games, and talk shows. We found that the number of channels in these categories are very different. There are 800 channels for Gaming, 769 for Entertainment and 732 for Music, but only 294 channels in Sports. The channels in Entertainment or Music are much more than those in Sports. **This means that if someone is interested in Sports, he/she will only have a few choices of channels to watch the videos, while trending videos of Gaming, Entertainment or Music are widely distributed in many channels,** so for each single channel, it may not contain as many trending videos as channels in category of Sports.
 [image]
